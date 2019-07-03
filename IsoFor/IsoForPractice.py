@@ -51,7 +51,7 @@ class ITree(object):
     def itree(self):
         attr = 0
         depth = 0
-
+        #该List是存放所有数据和数据depth的，不能将其看待为存放孤立树
         self.Tree_1 = []
         self.tree = [[self.root, 0, attr]]
 
@@ -66,7 +66,9 @@ class ITree(object):
 
 
             i = 0
+
             while(i<len(root)):
+                #树停止分支条件
                 if(len(root)==1 or depth == self.depth-1 ):
                     self.Tree_1.append([root,depth])
                     break
