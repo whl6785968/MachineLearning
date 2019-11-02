@@ -1,7 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a943d5b1-c3a4-4ade-b444-952bc1cb1b3d" name="Default" comment="" />
+    <list default="true" id="a943d5b1-c3a4-4ade-b444-952bc1cb1b3d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AdaBoosting/AdaBoostingAttemp.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AdaBoosting/model/crf.model" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/CRF/CRF_cut.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/CRF/CRF_train.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/CRF/data/train.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/CRF/model/emit_dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/CRF/model/trans_dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/HMM/HMM_cut.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/HMM/HMM_train.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/HMM/model/prob_emit.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/HMM/model/prob_start.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/HMM/model/prob_trans.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/N-gram/MaxNgram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/N-gram/TrainNgram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/N-gram/data/train.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/N-gram/model/trans_dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CUT/N-gram/model/word_dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/ch3/Skip_gram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/ch3/WordNetTst.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/ch3/skip_embeddings.npy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/ch3/skip_losses.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/FirstAttempt.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/InputPipline.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/ManualNN.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/TfOperation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/mnist_stats.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/t10k-images-idx3-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/t10k-labels-idx1-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/train-images-idx3-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DL4NLP/tensorflowBasic/train-labels-idx1-ubyte.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/CRF_NER.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/CRF_train.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/Extract_undupicate_word.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/Start_dict_gen.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/count_dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/emit_dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/prob_word_trans.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/set_list.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/start_word.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/trans_dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/word_trans.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/CRF/model/words_list.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NER/data/train.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Parsing/Chart/Graph.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Parsing/Chart/LinearQueue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Parsing/Chart/parsing_chart.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/BsPractice.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/Config.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/DataFrameTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/MaoYanSpider.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/OtherTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/ProxyTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/PyQueryPractice.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/RePractice.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/TaobaoDelicious.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/TimeTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/TouTiaoSpider.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/TouTiaoSpider2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/WaterSpider.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/WeChatSpider.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Spider/new.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/0.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/1.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/10.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/11.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/12.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/13.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/14.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/15.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/16.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/17.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/18.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/19.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/2.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/20.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/21.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/22.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/23.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/24.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/25.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/26.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/27.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/28.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/29.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/3.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/30.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/31.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/32.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/33.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/34.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/35.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/36.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/37.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/38.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/39.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/4.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/40.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/41.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/42.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/43.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/44.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/45.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/46.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/47.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/48.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/49.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/5.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/50.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/51.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/52.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/53.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/54.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/55.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/56.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/57.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/58.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/59.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/6.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/60.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/7.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/8.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_data/9.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/face_rec/face_rec_d.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/BasicTensorFlow.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/First.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tensorflow/TensorFlowTest.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algo.iml" afterPath="$PROJECT_DIR$/.idea/Algo.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,43 +144,128 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Algo$IsoForPractice.coverage" NAME="IsoForPractice Coverage Results" MODIFIED="1562054575223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IsoFor" />
+    <SUITE FILE_PATH="coverage/Algo$TimeTest.coverage" NAME="TimeTest Coverage Results" MODIFIED="1571537120126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$BsPractice.coverage" NAME="BsPractice Coverage Results" MODIFIED="1571186338862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$WordNetTst.coverage" NAME="WordNetTst Coverage Results" MODIFIED="1572591738982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL4NLP/ch3" />
+    <SUITE FILE_PATH="coverage/Algo$RL_1_Probie.coverage" NAME="RL_1_Probie Coverage Results" MODIFIED="1562140440392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ReinforceLearning" />
+    <SUITE FILE_PATH="coverage/Algo$AdaBoostingAttemp.coverage" NAME="AdaBoostingAttemp Coverage Results" MODIFIED="1571815539307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdaBoosting" />
+    <SUITE FILE_PATH="coverage/Algo$WaterSpider.coverage" NAME="WaterSpider Coverage Results" MODIFIED="1571469415637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$BasicTensorFlow.coverage" NAME="BasicTensorFlow Coverage Results" MODIFIED="1571734716293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow" />
+    <SUITE FILE_PATH="coverage/Algo$MaxNgram.coverage" NAME="MaxNgram Coverage Results" MODIFIED="1571903083389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CUT/N-gram" />
     <SUITE FILE_PATH="coverage/untitled1$IsoFor2.coverage" NAME="IsoFor2 Coverage Results" MODIFIED="1562031623368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IsoFor" />
+    <SUITE FILE_PATH="coverage/Algo$TaobaoDelicious.coverage" NAME="TaobaoDelicious Coverage Results" MODIFIED="1571208488473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$HMM_CUT.coverage" NAME="HMM_CUT Coverage Results" MODIFIED="1571642910914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CUT/HMM" />
+    <SUITE FILE_PATH="coverage/Algo$InputPipline.coverage" NAME="InputPipline Coverage Results" MODIFIED="1572681375144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL4NLP/tensorflowBasic" />
+    <SUITE FILE_PATH="coverage/Algo$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1572059189805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Parsing/Chart" />
+    <SUITE FILE_PATH="coverage/Algo$ManualNN.coverage" NAME="ManualNN Coverage Results" MODIFIED="1572658503404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL4NLP/tensorflowBasic" />
+    <SUITE FILE_PATH="coverage/Algo$CRF_train__1_.coverage" NAME="CRF_train (1) Coverage Results" MODIFIED="1571886443800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NER/CRF" />
+    <SUITE FILE_PATH="coverage/Algo$CRF_train.coverage" NAME="CRF_train Coverage Results" MODIFIED="1571812000323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CUT/CRF" />
+    <SUITE FILE_PATH="coverage/Algo$Extract_undupicate_word.coverage" NAME="Extract_undupicate_word Coverage Results" MODIFIED="1571886299189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NER/CRF" />
+    <SUITE FILE_PATH="coverage/Algo$MaoYanSpider.coverage" NAME="MaoYanSpider Coverage Results" MODIFIED="1571106249132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$ProxyTest.coverage" NAME="ProxyTest Coverage Results" MODIFIED="1571291787531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$DataFrameTest.coverage" NAME="DataFrameTest Coverage Results" MODIFIED="1571207944310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$CRF_NER.coverage" NAME="CRF_NER Coverage Results" MODIFIED="1571906034754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NER/CRF" />
+    <SUITE FILE_PATH="coverage/Algo$FirstAttempt.coverage" NAME="FirstAttempt Coverage Results" MODIFIED="1572510513161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL4NLP/tensorflowBasic" />
+    <SUITE FILE_PATH="coverage/Algo$WeChatSpider.coverage" NAME="WeChatSpider Coverage Results" MODIFIED="1571291721993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$Skip_gram.coverage" NAME="Skip_gram Coverage Results" MODIFIED="1572682711801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL4NLP/ch3" />
+    <SUITE FILE_PATH="coverage/Algo$RePractice.coverage" NAME="RePractice Coverage Results" MODIFIED="1571033763761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$TouTiaoSpider.coverage" NAME="TouTiaoSpider Coverage Results" MODIFIED="1571125045006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
     <SUITE FILE_PATH="coverage/Algo$IsoFor2.coverage" NAME="IsoFor2 Coverage Results" MODIFIED="1562057228186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IsoFor" />
+    <SUITE FILE_PATH="coverage/Algo$HMM_cut.coverage" NAME="HMM_cut Coverage Results" MODIFIED="1571905832214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CUT/HMM" />
+    <SUITE FILE_PATH="coverage/Algo$Start_dict_gen.coverage" NAME="Start_dict_gen Coverage Results" MODIFIED="1571899885962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NER/CRF" />
+    <SUITE FILE_PATH="coverage/Algo$IsoForPractice.coverage" NAME="IsoForPractice Coverage Results" MODIFIED="1562054575223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IsoFor" />
+    <SUITE FILE_PATH="coverage/Algo$parsing_chart.coverage" NAME="parsing_chart Coverage Results" MODIFIED="1572161406541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Parsing/Chart" />
+    <SUITE FILE_PATH="coverage/Algo$TouTiaoSpider2.coverage" NAME="TouTiaoSpider2 Coverage Results" MODIFIED="1571128865542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$TrainNgram.coverage" NAME="TrainNgram Coverage Results" MODIFIED="1571707759826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CUT/N-gram" />
+    <SUITE FILE_PATH="coverage/Algo$Graph.coverage" NAME="Graph Coverage Results" MODIFIED="1571992528442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Parsing/Chart" />
+    <SUITE FILE_PATH="coverage/Algo$TensorFlowTest.coverage" NAME="TensorFlowTest Coverage Results" MODIFIED="1571735482452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow" />
+    <SUITE FILE_PATH="coverage/Algo$First.coverage" NAME="First Coverage Results" MODIFIED="1571733873322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow" />
+    <SUITE FILE_PATH="coverage/Algo$PyQueryPractice.coverage" NAME="PyQueryPractice Coverage Results" MODIFIED="1571042116829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
+    <SUITE FILE_PATH="coverage/Algo$OtherTest.coverage" NAME="OtherTest Coverage Results" MODIFIED="1572680069659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="IsoFor2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IsoFor/IsoFor2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="139" column="46" lean-forward="true" selection-start-line="139" selection-start-column="46" selection-end-line="139" selection-end-column="46" />
-              <folding>
-                <element signature="e#165#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsoForPractice" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IsoFor/IsoForPractice">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2867">
-              <caret line="184" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="184" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>incorrect</find>
+      <find>gallery</find>
+      <find>get_data</find>
+      <find>re</find>
+      <find>水</find>
+      <find>pr</find>
+      <find>print</find>
+      <find>embeddings</find>
+      <find>optimizer</find>
+      <find>generat_batch_skip_gram</find>
+      <find>valid_dataset</find>
+      <find>path</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/IsoFor/IsoForPractice" />
         <option value="$PROJECT_DIR$/IsoFor/IsoFor2.py" />
+        <option value="$PROJECT_DIR$/ReinforceLearning/RL_1_Probie.py" />
+        <option value="$PROJECT_DIR$/IsoFor/IsoForPractice.py" />
+        <option value="$PROJECT_DIR$/Spider/RePractice.py" />
+        <option value="$PROJECT_DIR$/Spider/PyQueryPractice.py" />
+        <option value="$PROJECT_DIR$/Spider/MaoYanSpider.py" />
+        <option value="$PROJECT_DIR$/Spider/TouTiaoSpider.py" />
+        <option value="$PROJECT_DIR$/Spider/TouTiaoSpider2.py" />
+        <option value="$PROJECT_DIR$/Spider/BsPractice.py" />
+        <option value="$PROJECT_DIR$/Spider/Config.py" />
+        <option value="$PROJECT_DIR$/Spider/DataFrameTest.py" />
+        <option value="$PROJECT_DIR$/Spider/TaobaoDelicious.py" />
+        <option value="$PROJECT_DIR$/Spider/WeChatSpider.py" />
+        <option value="$PROJECT_DIR$/Spider/ProxyTest.py" />
+        <option value="$PROJECT_DIR$/Spider/WaterSpider.py" />
+        <option value="$PROJECT_DIR$/Spider/TimeTest.py" />
+        <option value="$PROJECT_DIR$/Cut/HMM.py" />
+        <option value="$PROJECT_DIR$/CUT/HMM/HMM_train.py" />
+        <option value="$PROJECT_DIR$/CUT/HMM/model/prob_emit.txt" />
+        <option value="$PROJECT_DIR$/CUT/HMM/model/prob_start.txt" />
+        <option value="$PROJECT_DIR$/CUT/HMM/model/prob_trans.txt" />
+        <option value="$PROJECT_DIR$/CUT/HMM/HMM_CUT.py" />
+        <option value="$PROJECT_DIR$/CUT/N-gram/TrainNgram.py" />
+        <option value="$PROJECT_DIR$/tensorflow/First.py" />
+        <option value="$PROJECT_DIR$/tensorflow/BasicTensorFlow.py" />
+        <option value="$PROJECT_DIR$/tensorflow/TensorFlowTest.py" />
+        <option value="$PROJECT_DIR$/CUT/CRF/CRF_train.py" />
+        <option value="$PROJECT_DIR$/CUT/CRF/CRF_cut.py" />
+        <option value="$PROJECT_DIR$/NER/data/train.txt" />
+        <option value="$PROJECT_DIR$/AdaBoosting/AdaBoostingAttemp.py" />
+        <option value="$PROJECT_DIR$/NER/CRF/model/trans_dict.txt" />
+        <option value="$PROJECT_DIR$/NER/CRF/model/emit_dict.txt" />
+        <option value="$PROJECT_DIR$/NER/CRF/CRF_train.py" />
+        <option value="$PROJECT_DIR$/NER/CRF/Extract_undupicate_word.py" />
+        <option value="$PROJECT_DIR$/NER/CRF/Start_dict_gen.py" />
+        <option value="$PROJECT_DIR$/CUT/N-gram/MaxNgram.py" />
+        <option value="$PROJECT_DIR$/CUT/HMM/HMM_cut.py" />
+        <option value="$PROJECT_DIR$/NER/CRF/CRF_NER.py" />
+        <option value="$PROJECT_DIR$/Parsing/Chart/BasicChart_test.py" />
+        <option value="$PROJECT_DIR$/Parsing/Chart/Graph.py" />
+        <option value="$PROJECT_DIR$/Parsing/Chart/Queue.py" />
+        <option value="$PROJECT_DIR$/Parsing/Chart/parsing_chart.py" />
+        <option value="$PROJECT_DIR$/DL4NLP/tensorflowBasic/FirstAttempt.py" />
+        <option value="$PROJECT_DIR$/DL4NLP/tensorflowBasic/InputPipline.py" />
+        <option value="$PROJECT_DIR$/DL4NLP/tensorflowBasic/TfOperation.py" />
+        <option value="$PROJECT_DIR$/DL4NLP/tensorflowBasic/ManulNN.py" />
+        <option value="$PROJECT_DIR$/DL4NLP/ch3/WordNetTst.py" />
+        <option value="$PROJECT_DIR$/DL4NLP/tensorflowBasic/ManualNN.py" />
+        <option value="$PROJECT_DIR$/Spider/OtherTest.py" />
+        <option value="$PROJECT_DIR$/DL4NLP/ch3/Skip_gram.py" />
       </list>
     </option>
   </component>
@@ -57,13 +276,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="808" />
-    <option name="y" value="181" />
+    <option name="x" value="654" />
+    <option name="y" value="217" />
     <option name="width" value="1400" />
-    <option name="height" value="954" />
+    <option name="height" value="951" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -77,6 +297,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algo" type="cbb8eebc:String" user="Algo" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algo" type="cbb8eebc:String" user="Algo" />
+              <item name="DL4NLP" type="cbb8eebc:String" user="DL4NLP" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algo" type="cbb8eebc:String" user="Algo" />
+              <item name="DL4NLP" type="cbb8eebc:String" user="DL4NLP" />
+              <item name="ch3" type="cbb8eebc:String" user="ch3" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Algo" type="cbb8eebc:String" user="Algo" />
+              <item name="DL4NLP" type="cbb8eebc:String" user="DL4NLP" />
+              <item name="tensorflowBasic" type="cbb8eebc:String" user="tensorflowBasic" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,27 +333,24 @@
               <item name="Algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="IsoFor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/IsoFor/IsoFor2.py" />
+    <property name="last_opened_file_path" value="E:/WordSegment-master" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/dell/PycharmProjects/Algo/DL4NLP/tensorflowBasic/FirstAttempt.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\PycharmProjects\Algo\NER\data" />
+      <recent name="C:\Users\dell\PycharmProjects\Algo\CUT\CRF\data" />
+      <recent name="C:\Users\dell\PycharmProjects\Algo\CUT\N-gram\data" />
       <recent name="C:\Users\dell\PycharmProjects\Algo\IsoFor" />
     </key>
   </component>
@@ -120,7 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IsoFor2">
+  <component name="RunManager" selected="Python.Skip_gram">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,39 +412,96 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
     </configuration>
-    <configuration name="IsoFor2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="InputPipline" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IsoFor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL4NLP/tensorflowBasic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IsoFor/IsoFor2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL4NLP/tensorflowBasic/InputPipline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="IsoForPractice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ManualNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IsoFor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL4NLP/tensorflowBasic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IsoFor/IsoForPractice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL4NLP/tensorflowBasic/ManualNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="OtherTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/OtherTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Skip_gram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL4NLP/ch3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL4NLP/ch3/Skip_gram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="WordNetTst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL4NLP/ch3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL4NLP/ch3/WordNetTst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,14 +600,20 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.IsoFor2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.IsoForPractice" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.OtherTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.InputPipline" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ManualNN" />
+      <item index="3" class="java.lang.String" itemvalue="Python.WordNetTst" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Skip_gram" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.IsoFor2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.IsoForPractice" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Skip_gram" />
+        <item index="1" class="java.lang.String" itemvalue="Python.InputPipline" />
+        <item index="2" class="java.lang.String" itemvalue="Python.OtherTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ManualNN" />
+        <item index="4" class="java.lang.String" itemvalue="Python.WordNetTst" />
       </list>
     </recent_temporary>
   </component>
@@ -322,28 +631,46 @@
       <option name="presentableId" value="Default" />
       <updated>1562030278747</updated>
     </task>
+    <task id="LOCAL-00001" summary="ReinForce Learning And Isolation Forest">
+      <created>1562143215528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562143215528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16738197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="848" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26840317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16416308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39862543" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29218572" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -355,6 +682,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ReinForce Learning And Isolation Forest" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReinForce Learning And Isolation Forest" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -363,74 +694,390 @@
           <line>209</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CUT/HMM/HMM_cut.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DL4NLP/tensorflowBasic/TfOperation.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DL4NLP/ch3/Skip_gram.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IsoFor/IsoFor2.py">
+    <entry file="file://$PROJECT_DIR$/NER/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/AdaBoosting/model/crf.model">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125">
+          <caret line="1" column="928" lean-forward="false" selection-start-line="1" selection-start-column="928" selection-end-line="1" selection-end-column="928" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdaBoosting/AdaBoostingAttemp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2424">
+          <caret line="101" column="43" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CUT/CRF/CRF_train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#165#183#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IsoFor/IsoForPractice">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IsoFor/IsoFor2.py">
+    <entry file="file://$PROJECT_DIR$/CUT/CRF/data/train.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#165#183#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Anaconda/Lib/site-packages/pandas/io/parsers.py">
+    <entry file="file://$PROJECT_DIR$/Spider/TimeTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12863">
-          <caret line="677" column="0" lean-forward="false" selection-start-line="677" selection-start-column="0" selection-end-line="677" selection-end-column="0" />
+        <state relative-caret-position="-825">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/trans_dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/emit_dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/words_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/set_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/wt.txt" />
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/word_trans.txt">
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="250">
+          <caret line="0" column="985" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1224962" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/prob_word_trans.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CUT/N-gram/TrainNgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/count_dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/model/start_word.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/Start_dict_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/CRF_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/CRF_NER.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/CRF/Extract_undupicate_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/MaoYanSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-869">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/WeChatSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReinforceLearning/RL_1_Probie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/TaobaoDelicious.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="46" column="44" lean-forward="false" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Anaconda/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="1652" column="8" lean-forward="false" selection-start-line="1652" selection-start-column="8" selection-end-line="1652" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parsing/Chart/Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/new.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parsing/Chart/parsing_chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="118" column="12" lean-forward="true" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parsing/Chart/LinearQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CUT/N-gram/model/word_dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CUT/N-gram/MaxNgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2175">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/WaterSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/First.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/TensorFlowTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/BasicTensorFlow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL4NLP/tensorflowBasic/TfOperation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="125" column="12" lean-forward="false" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Anaconda/Lib/site-packages/pandas/io/parsers.py">
+    <entry file="file://$PROJECT_DIR$/DL4NLP/ch3/WordNetTst.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="681" column="19" lean-forward="true" selection-start-line="681" selection-start-column="19" selection-end-line="681" selection-end-column="19" />
+        <state relative-caret-position="125">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL4NLP/tensorflowBasic/ManualNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NER/data/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CUT/HMM/HMM_cut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IsoFor/IsoForPractice">
+    <entry file="file://$PROJECT_DIR$/DL4NLP/tensorflowBasic/mnist_stats.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://F:/Anaconda/Lib/site-packages/matplotlib/pyplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2867">
-          <caret line="184" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="184" selection-end-column="20" />
+        <state relative-caret-position="65">
+          <caret line="4078" column="4" lean-forward="false" selection-start-line="4078" selection-start-column="4" selection-end-line="4078" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Anaconda/Lib/site-packages/spectral/spectral.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10464">
+          <caret line="558" column="4" lean-forward="false" selection-start-line="558" selection-start-column="4" selection-end-line="558" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Anaconda/Lib/site-packages/spectral/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL4NLP/ch3/skip_losses.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CUT/HMM/HMM_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/OtherTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IsoFor/IsoFor2.py">
+    <entry file="file://$PROJECT_DIR$/DL4NLP/tensorflowBasic/FirstAttempt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="139" column="46" lean-forward="true" selection-start-line="139" selection-start-column="46" selection-end-line="139" selection-end-column="46" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#165#183#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL4NLP/tensorflowBasic/InputPipline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL4NLP/ch3/Skip_gram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5038">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
